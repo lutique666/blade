@@ -55,10 +55,15 @@ padding-right: 10%;
 
 .quote {
   position: relative;
-  width: 70%;
-  top: 30%;
-  left: 30%;
+  width: 80%;
+  top: 10%;
+  left: 10%;
+  right:10%;
 }
+
+
+.quote p {
+  font-style: italic;
 }
 
 #inputform {
